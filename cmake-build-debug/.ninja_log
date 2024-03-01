@@ -1,0 +1,11 @@
+# ninja log v5
+3	12248	7308616191214317	CMakeFiles/Llama_project.dir/main.c.obj	1fa0dd01620a6bb1
+12249	13702	7308616205575517	Llama_project.exe	471071e3c94e5f66
+5	3476	7309302426790718	build.ninja	367b8ee439beeaca
+11	1847	7309302426790718	build.ninja	367b8ee439beeaca
+7	879	7309302436461976	CMakeFiles/Llama_project.dir/main.c.obj	1fa0dd01620a6bb1
+880	1564	7309302443296841	Llama_project.exe	471071e3c94e5f66
+5	224	7309303698142778	CMakeFiles/Llama_project.dir/main.c.obj	1fa0dd01620a6bb1
+224	453	7309303700430665	Llama_project.exe	471071e3c94e5f66
+7	953	7310062308122758	CMakeFiles/Llama_project.dir/main.c.obj	1fa0dd01620a6bb1
+954	1673	7310062315278783	Llama_project.exe	471071e3c94e5f66
